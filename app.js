@@ -18,7 +18,8 @@ var cloudant;
 var fileToUpload;
 
 var dbCredentials = {
-    dbName: 'my_sample_db'
+    //dbName: 'my_sample_db'
+	dbName: 'newsnupdates'
 };
 
 var bodyParser = require('body-parser');
