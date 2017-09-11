@@ -1,0 +1,25 @@
+{
+  "cloudantNoSQLDB": [
+    {
+      "credentials": {
+        "username": "bcc34f1c-9e5b-44fa-a967-e6a6dcb5693f-bluemix",
+        "password": "34863e535be8118b8b182ddbf73ad9d1998b402e968fcbd75e583adab404debb",
+        "host": "bcc34f1c-9e5b-44fa-a967-e6a6dcb5693f-bluemix.cloudant.com",
+        "port": 443,
+        "url": "https://bcc34f1c-9e5b-44fa-a967-e6a6dcb5693f-bluemix:34863e535be8118b8b182ddbf73ad9d1998b402e968fcbd75e583adab404debb@bcc34f1c-9e5b-44fa-a967-e6a6dcb5693f-bluemix.cloudant.com"
+      },
+      "syslog_drain_url": null,
+      "volume_mounts": [],
+      "label": "cloudantNoSQLDB",
+      "provider": null,
+      "plan": "Lite",
+      "name": "fikracloudant",
+      "tags": [
+        "data_management",
+        "ibm_created",
+        "lite",
+        "ibm_dedicated_public"
+      ]
+    }
+  ]
+}
